@@ -1,6 +1,6 @@
 # 🎙️ Projeto Transcrever Áudio
 
-Este projeto automatiza a transcrição de arquivos de áudio para texto utilizando Python e a biblioteca Whisper.
+Este projeto simples automatiza a transcrição de arquivos de áudio para texto utilizando Python e a biblioteca Whisper.
 
 ## Funcionalidades
 * Transcrição de áudios em diversos formatos.
